@@ -1,0 +1,65 @@
+body {
+  background-color: hsl(185, 75%, 39%);
+  font-family: 'Kumbh Sans', sans-serif;
+  text-align: center;
+}
+
+.bg-pattern-top {
+  position: absolute;
+  left: -250px;
+  top: -500px;
+}
+
+.bg-pattern-bottom{
+  position: absolute;
+  right: -250px;
+  bottom: -600px;
+}
+
+.mid-container {
+  height: 390px;
+  width: 350px;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  margin-top: 180px;
+  border-radius: 20px;
+}
+
+.bg-pattern-card{
+  border-radius: 20px 20px 0 0;
+}
+
+.victor-img{
+  position: relative;
+  bottom: 60px;
+  width: 30%;
+}
+
+.profile-name {
+  font-size: 18px;
+  color: hsl(229, 23%, 23%);
+  margin: 0;
+  position: relative;
+  bottom: 20px;
+}
+
+.london{
+  color: hsl(227, 10%, 46%);
+  position: relative;
+  bottom: 25px;
+  margin: 0;
+  margin-top: 10px;
+}
+
+.footer{
+  text-align: center;
+  margin-left: 15px;
+  word-spacing: 40px;
+  font-size: 18px;
+}
+
+.bottom{
+  font-size: 14px;
+  word-spacing: 40px;
+}
